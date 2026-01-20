@@ -248,7 +248,7 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align:center;color:#666;font-size:0.8rem;">
     Built for LabLab.ai Hackathon: Agentic Commerce on Arc | 
-    <a href="https://github.com/your-repo">GitHub</a> |
+    <a href="https://github.com/minalkharat-cmd/ai-agentic-wallet">GitHub</a> |
     Powered by 🔵 Circle + 🤖 Gemini
 </div>
 """, unsafe_allow_html=True)
